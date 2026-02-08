@@ -3,9 +3,7 @@
 **AI & Backend Engineer** | Breda, The Netherlands  
 Building **production-grade AI systems** that are reliable, efficient, and ethical.
 
-[LinkedIn](https://www.linkedin.com/in/ansar-bajwa/)
-
----
+[LinkedIn](https://www.linkedin.com/in/ansar-bajwa/
 
 ## What I Work On
 
@@ -14,19 +12,13 @@ Building **production-grade AI systems** that are reliable, efficient, and ethic
 - LLM pipelines, AI agents, and multimodal systems
 - Cost-efficient, reproducible, and secure system design
 
----
-
 ## Recent favourite project
 
 I built a semantic document chunking system that uses embeddings to segment PDFs and lecture transcripts into coherent, context-preserving chunks. The system improves LLM retrieval and reasoning accuracy by avoiding naive length-based splits and maintaining semantic continuity. The final result contains the slide content, transcripts, and image-descriptions. Maxed out context!!
 
----
-
 ## Tech Stack
 
 **Python · TypeScript · FastAPI · Docker · PostgreSQL · PyTorch · Transformers · LLM Agents · Linux**
-
----
 
 ## Self Learning
 
