@@ -2,6 +2,7 @@
 
 **AI & Backend Engineer** | Breda, The Netherlands  
 Building **production-grade AI systems** that are reliable, efficient, and ethical.
+[LinkedIn](https://www.linkedin.com/in/ansar-bajwa/)
 
 ---
 
@@ -20,7 +21,7 @@ I built a semantic document chunking system that uses embeddings to segment PDFs
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Python · TypeScript · FastAPI · Docker · PostgreSQL · PyTorch · Transformers · LLM Agents · Linux**
 
@@ -33,4 +34,3 @@ Currently reading Agent Design Principles, and completing back-end development c
 ---
 
 Ethics > profit. Impact > hype.
-[LinkedIn](https://www.linkedin.com/in/ansar-bajwa/)
