@@ -2,11 +2,12 @@
 
 **AI & Backend Engineer** | Breda, The Netherlands  
 Building **production-grade AI systems** that are reliable, efficient, and ethical.
+
 [LinkedIn](https://www.linkedin.com/in/ansar-bajwa/)
 
 ---
 
-## 🔧 What I Work On
+## What I Work On
 
 - End-to-end AI systems (design → deployment)
 - FastAPI backends, Dockerized production setups
@@ -30,7 +31,3 @@ I built a semantic document chunking system that uses embeddings to segment PDFs
 ## Self Learning
 
 Currently reading Agent Design Principles, and completing back-end development courses on Boot.dev.
-
----
-
-Ethics > profit. Impact > hype.
